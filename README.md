@@ -3,8 +3,11 @@
 - 🔭 Atualmente trabalho como programador júnior na parte de Front-end
 - 🌱 Estudando Javascript
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 <div>
+  <a href="https://github.com/GabrielMatteElias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatteElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><div>
   <h2>Tech Stack:hammer_and_wrench:	</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="4%"/>
@@ -14,7 +17,7 @@
 
 <div>
   <h2>Contact me :inbox_tray:		</h2>
-  <a href="mailto:gabrielmatteelias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:gabrielmatteelias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-matte-elias-05baab189/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div> 
                  
