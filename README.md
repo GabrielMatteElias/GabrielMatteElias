@@ -12,8 +12,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
 </div> 
 
-##
-
 <div>
   <h2>Contact me :inbox_tray:		</h2>
   <a href="mailto:gabrielmatteelias@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
