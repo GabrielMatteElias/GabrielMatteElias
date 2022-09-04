@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
 - 🔭 Atualmente trabalho como programador júnior na parte de Front-end
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript, React, HTML e CSS
 
 <div>
   <a href="https://github.com/GabrielMatteElias"></a>
