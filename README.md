@@ -6,9 +6,11 @@
 <div>
   <a href="https://github.com/GabrielMatteElias"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatteElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div><div>
+  
+</div>
+<div>
   <h2>Tech Stack:hammer_and_wrench:	</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%"/>
