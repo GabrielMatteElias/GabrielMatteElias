@@ -4,7 +4,7 @@
 - 🌱 Estudando Javascript, React, HTML e CSS
 
 <div>
-  <a href="https://github.com/GabrielMatteEliass"></a>
+  <a href="https://github.com/GabrielMatteElias"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
