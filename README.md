@@ -1,7 +1,9 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
-- 🔭 Atualmente trabalho como programador júnior na parte de Front-end
-- 🌱 Estudando Javascript, React, HTML e CSS
+- 🔭 Atualmente trabalho como programador na parte de Front-end
+- 👨‍💻 Linguagens Javascript, React, HTML e CSS
+- 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
+  - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
 <div>
   <a href="https://github.com/GabrielMatteElias"></a>
