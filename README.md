@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho como programador na parte de Front-end
 - 👨‍💻 Linguagens Javascript, React, HTML e CSS
 - 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
-  - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
+- Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
 <div>
   <a href="https://github.com/GabrielMatteElias"></a>
