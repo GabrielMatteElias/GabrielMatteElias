@@ -7,7 +7,7 @@
 
 <div>
 <a href="https://github.com/GabrielMatteElias/">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula&pt-br	"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
