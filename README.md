@@ -16,8 +16,7 @@
 
 <div>
 <a href="https://github.com/GabrielMatteElias/">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMatteElias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
@@ -28,10 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="4%"/>
-  <i class="devicon-oracle-original colored"></i>
-                              
-          
-          
+  <i class="devicon-oracle-original colored"></i>                                 
 </div> 
 
 <div>
