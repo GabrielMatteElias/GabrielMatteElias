@@ -5,7 +5,10 @@
 - 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
 - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
-https://github-readme-stats.vercel.app/api?username=GabrielMatteElias&show_icons=true
+<div>
+  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMatteElias&show_icons=true)
+
+</div>
 
 <div>
   <h2>Tech Stack :hammer_and_wrench:	</h2>
