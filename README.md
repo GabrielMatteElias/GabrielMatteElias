@@ -5,6 +5,8 @@
 - 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
 - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true
+
 <div>
   <h2>Tech Stack :hammer_and_wrench:	</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="4%" />
