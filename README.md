@@ -5,18 +5,10 @@
 - 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
 - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact)](https://github.com/GabrielMatteElias/github-readme-stats"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact)](https://github.com/GabrielMatteElias/github-readme-stats"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact)](https://github.com/GabrielMatteElias/github-readme-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact)" />
-</picture>
+<div>
+  <a href="https://github.com/GabrielMatteElias"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMatteElias&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div>
   <h2>Tech Stack :hammer_and_wrench:	</h2>
