@@ -1,8 +1,8 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
 - 🔭 Atualmente trabalho como programador na parte de Front-end
-- 👨‍💻 Linguagens Javascript, React, HTML e CSS
-- 🌱 Estudando TailWindCSS, Next.js, Python e Node.js
+- 👨‍💻 Linguagens Javascript, Next.js, React, HTML e CSS
+- 🌱 Estudando , C# e Python
 - Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
 
 <div>
@@ -12,6 +12,7 @@
 
 <div>
   <h2>Tech Stack :hammer_and_wrench:	</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="4%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="4%"/>
