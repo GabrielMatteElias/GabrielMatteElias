@@ -1,9 +1,9 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
 - 🔭 Atualmente trabalho como programador na parte de Front-end
-- 👨‍💻 Linguagens Javascript, Next.js, React, HTML e CSS
-- 🌱 Estudando , C# e Python
-- Também tenho um pouco de conhecimento em banco de dados Oracle e Microsoft SQL server
+- 👨‍💻 Linguagens, framewors e libs: Javascript, Next.js, React
+- 🌱 Estudando C# e Python
+- Também tenho familiaridade com os bancos de dados Oracle e Microsoft SQL server
 
 <div>
   <a href="https://github.com/GabrielMatteElias"></a>
@@ -17,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="4%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"  width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%"/>
   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/npm/tailwindcss@3.4.3/base.min.css)" width="4%"/>
   
