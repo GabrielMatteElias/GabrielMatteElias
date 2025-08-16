@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
-- 🔭 Atualmente trabalho como desenvolvedor ReactJS e NodeJS.
-- 👨‍💻 Linguagens, framewors e libs: Javascript, Next.js, React, MaterialUI, Node, Tailwind e Docker.
+- 🔭 Atualmente trabalho como desenvolvedor fullstack com ReactJS e NodeJS.
+- 👨‍💻 Linguagens, frameworks e libs: Javascript, Next.js, React, MaterialUI, Node, Tailwind e Docker.
 - 🌱 Estudando C# e Python
 - Também tenho conhecimento nos bancos de dados Oracle e Microsoft SQL server
 
