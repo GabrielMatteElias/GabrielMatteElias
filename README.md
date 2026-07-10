@@ -1,7 +1,7 @@
 <h1>Olá! Me chamo Gabriel Matte</h1>
 
-- 🔭 Atualmente trabalho como desenvolvedor fullstack com ReactJS e NodeJS.
-- 👨‍💻 Linguagens, frameworks e libs: Javascript, Next.js, React, MaterialUI, Node, Python Tailwind e Docker.
+- 🔭 Atualmente trabalho como desenvolvedor fullstack com ReactJS, NodeJS e Python.
+- 👨‍💻 Linguagens, frameworks e libs: Javascript, React, Next.js, Node, Python, FastAPI, MaterialUI, Astro,  Tailwind e Docker.
 - Também tenho conhecimento nos bancos de dados Oracle e Microsoft SQL server
 
 <div>
@@ -18,8 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="4%"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="4%"/>
-             
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="4%"/>             
   <i class="devicon-oracle-original colored"></i>                                 
 </div> 
 
